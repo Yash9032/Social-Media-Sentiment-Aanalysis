@@ -1,3 +1,5 @@
+Descip
+
 # Social Media Sentiment Analytics – Internship Project at Brainwave Matrix Solution
 
 This project was developed as part of my internship at Brainwave Matrix Solution, where I built a complete sentiment analysis pipeline using Python and an interactive Power BI dashboard to analyze social media data from platforms like Facebook, Instagram, and X.com (formerly Twitter).
